@@ -6,3 +6,5 @@ asewfr
 scdsacd
 
 Hi bug 1
+
+Hi bug2
