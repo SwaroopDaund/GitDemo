@@ -7,8 +7,4 @@ changed for 1 feature
 Login
 asdasd
 asdasd
-asda
-
-
-
-Bug one generated
+asdac
