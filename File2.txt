@@ -1,0 +1,6 @@
+*.cs
+*.dll
+/temp/
+
+asewfr
+scdsacd
