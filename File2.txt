@@ -2,7 +2,11 @@
 *.dll
 /temp/
 
-asewfr
+asesdfsdfsdfsdwfr
 scdsacd
 
 Hi bug 1
+
+Hello bug 3
+
+Change from remote server from team mate
